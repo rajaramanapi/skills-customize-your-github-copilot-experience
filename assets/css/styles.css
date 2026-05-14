@@ -472,3 +472,10 @@ body {
     flex-direction: column;
   }
 }
+.announcement-banner {
+  background-color: #4caf50;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  font-weight: bold;
+}
